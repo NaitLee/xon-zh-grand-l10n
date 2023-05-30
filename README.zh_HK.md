@@ -61,7 +61,7 @@
 
 - 留意前綴
 
-[前綴](https://gitlab.com/xonotic/xonotic/-/wikis/List-of-translation-prefixes)明確吿訴了字符串的上下文。
+[前綴](https://gitlab.com/xonotic/xonotic/-/wikis/List-of-translation-prefixes)明確告訴了字符串的上下文。
 
 比如，`SCO^` 前綴表示此字符串是記分板表頭，那麼此字符串的翻譯應當儘可能短。
 

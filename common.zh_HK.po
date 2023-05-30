@@ -1,4 +1,8 @@
 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
 #: qcsrc/client/hud/hud_config.qc:80
 #, c-format
 msgid "^2Successfully exported to %s! (Note: It's saved in data/data/)"
@@ -980,7 +984,7 @@ msgstr "怪物擊殺："
 
 #: qcsrc/client/hud/panel/scoreboard.qc:1927
 msgid "Secrets found:"
-msgstr "發現祕密："
+msgstr "發現秘密："
 
 #: qcsrc/client/hud/panel/scoreboard.qc:2137
 #, c-format
@@ -2064,7 +2068,7 @@ msgstr "非手持抓鈎"
 #: qcsrc/common/mutators/mutator/hook/cl_hook.qc:12
 #, c-format
 msgid "^3grappling hook^8 is enabled, press ^3%s^8 to use it"
-msgstr "^3抓鈎^8已啟用，按 ^3%s^8 使用它"
+msgstr "^3抓鈎^8已啓用，按 ^3%s^8 使用它"
 
 #: qcsrc/common/mutators/mutator/instagib/items.qh:33
 msgid "Vaporizer ammo"
@@ -2115,7 +2119,7 @@ msgstr "丟出武器 / 扔榴彈"
 #: qcsrc/common/mutators/mutator/nades/nades.qc:104
 #, c-format
 msgid "^3nades^8 are enabled, press ^3%s^8 to use them"
-msgstr "^3榴彈^8已啟用，按 ^3%s^8 投擲"
+msgstr "^3榴彈^8已啓用，按 ^3%s^8 投擲"
 
 #: qcsrc/common/mutators/mutator/nades/nades.qh:99
 msgid "Grenade"
@@ -2124,7 +2128,7 @@ msgstr "榴彈"
 #: qcsrc/common/mutators/mutator/offhand_blaster/cl_offhand_blaster.qc:11
 #, c-format
 msgid "^3offhand blaster^8 is enabled, press ^3%s^8 to use it"
-msgstr "^3非手持型鐳射槍^8已啟用，按 ^3%s^8 使用它"
+msgstr "^3非手持型鐳射槍^8已啓用，按 ^3%s^8 使用它"
 
 #: qcsrc/common/mutators/mutator/overkill/okhmg.qh:22
 msgid "Overkill Heavy Machine Gun"
@@ -4300,7 +4304,7 @@ msgstr "^BG你已耗盡生命，請靜候下一輪競賽"
 msgid ""
 "^F4WARNING:^BG you can't rejoin this match after spectating.\n"
 "Use the same command again to spectate anyway."
-msgstr "^F4警吿：^BG進入旁觀模式後，將不能重新加入這一局競賽。\n再次運行此指令以旁觀。"
+msgstr "^F4警告：^BG進入旁觀模式後，將不能重新加入這一局競賽。\n再次運行此指令以旁觀。"
 
 #: qcsrc/common/notifications/all.inc:713
 msgid "^BGLeaders can now be seen by enemies on radar!"
@@ -5757,7 +5761,7 @@ msgstr "無説明"
 msgid ""
 "Entity field %s.%s (%s) is not whitelisted. If you believe this is an error, "
 "please file an issue."
-msgstr "實體域 %s.%s (%s) 未列入白名單。如果你確認這是一個錯誤，請報吿問題。"
+msgstr "實體域 %s.%s (%s) 未列入白名單。如果你確認這是一個錯誤，請報告問題。"
 
 #: qcsrc/lib/string.qh:186
 #, c-format
@@ -6047,7 +6051,7 @@ msgstr "未決定"
 msgid ""
 "Player statistics are enabled by default, you can change this in the Profile "
 "menu"
-msgstr "玩家統計默認啟用，你可以在“用户檔案”菜單更改"
+msgstr "玩家統計默認啓用，你可以在“用户檔案”菜單更改"
 
 #: qcsrc/menu/xonotic/dialog_firstrun.qc:95
 msgid "Save settings"
@@ -6235,7 +6239,7 @@ msgstr "合併生命與護甲"
 #: qcsrc/menu/xonotic/dialog_hudpanel_itemstime.qc:28
 #: qcsrc/menu/xonotic/dialog_hudpanel_powerups.qc:17
 msgid "Enable status bar"
-msgstr "啟用進度條"
+msgstr "啓用進度條"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_healtharmor.qc:21
 #: qcsrc/menu/xonotic/dialog_hudpanel_powerups.qc:19
@@ -6299,11 +6303,11 @@ msgstr "禁用"
 #: qcsrc/menu/xonotic/dialog_hudpanel_itemstime.qc:17
 #: qcsrc/menu/xonotic/dialog_hudpanel_pressedkeys.qc:15
 msgid "Enable spectating"
-msgstr "啟用觀察"
+msgstr "啓用觀察"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_itemstime.qc:18
 msgid "Enable even playing in warmup"
-msgstr "在熱身階段也啟用"
+msgstr "在熱身階段也啓用"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_itemstime.qc:29
 msgid "Reduced"
@@ -6362,17 +6366,17 @@ msgstr "通知面板"
 #: qcsrc/menu/xonotic/dialog_hudpanel_timer.qc:26
 #: qcsrc/menu/xonotic/util.qc:737
 msgid "Enable"
-msgstr "啟用"
+msgstr "啓用"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_physics.qc:17
 #: qcsrc/menu/xonotic/dialog_hudpanel_strafehud.qc:40
 msgid "Enable even observing"
-msgstr "在旁觀時也啟用"
+msgstr "在旁觀時也啓用"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_physics.qc:18
 #: qcsrc/menu/xonotic/dialog_hudpanel_strafehud.qc:41
 msgid "Enable only in Race/CTS"
-msgstr "僅在競速/CTS中啟用"
+msgstr "僅在競速/CTS中啓用"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_physics.qc:24
 msgid "Status bar"
@@ -6468,7 +6472,7 @@ msgstr "超能物品面板"
 #: qcsrc/menu/xonotic/dialog_hudpanel_pressedkeys.qc:16
 #: qcsrc/menu/xonotic/dialog_hudpanel_radar.qc:17
 msgid "Always enable"
-msgstr "總是啟用"
+msgstr "總是啓用"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_pressedkeys.qc:23
 msgid "Forced aspect:"
@@ -6488,7 +6492,7 @@ msgstr "競速計時面板"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_radar.qc:16
 msgid "Enable in team games"
-msgstr "在團隊遊戲中啟用"
+msgstr "在團隊遊戲中啓用"
 
 #: qcsrc/menu/xonotic/dialog_hudpanel_radar.qc:23
 msgid "Radar:"
@@ -7169,7 +7173,7 @@ msgstr "遊戲修改："
 msgid ""
 "Enable dodging (quick acceleration in a given direction). Double-tap a "
 "directional key to dodge"
-msgstr "啟用閃避（往指定方向快速移動）。雙擊一個方向鍵以閃避"
+msgstr "啓用閃避（往指定方向快速移動）。雙擊一個方向鍵以閃避"
 
 #: qcsrc/menu/xonotic/dialog_multiplayer_create_mutators.qc:126
 msgid "An explosion occurs when two players collide"
@@ -7183,7 +7187,7 @@ msgstr "所有玩家都近乎隱身"
 msgid ""
 "Enable buff pickups (random bonuses like Medic, Invisible, etc.) on the maps "
 "that support it"
-msgstr "在支持的地圖上啟用可拾取的增益物品（像治癒、隱身等的隨機獎勵）"
+msgstr "在支持的地圖上啓用可拾取的增益物品（像治癒、隱身等的隨機獎勵）"
 
 #: qcsrc/menu/xonotic/dialog_multiplayer_create_mutators.qc:139
 msgid "Only possible to inflict damage on your enemy while they're airborne"
@@ -7431,7 +7435,7 @@ msgstr "禁用了統計"
 #: qcsrc/menu/xonotic/dialog_multiplayer_join_serverinfo.qc:203
 #: qcsrc/menu/xonotic/serverlist.qc:1055
 msgid "stats enabled"
-msgstr "啟用了統計"
+msgstr "啓用了統計"
 
 #: qcsrc/menu/xonotic/dialog_multiplayer_join_serverinfo.qc:213
 msgid "Status"
@@ -7967,7 +7971,7 @@ msgstr "耳機友好模式"
 msgid ""
 "Enable spatialization (blend the right and left channel slightly to decrease "
 "stereo separation a bit for headphones)"
-msgstr "啟用空間化（稍稍混合左右聲道以輕微降低耳機的立體聲分離）"
+msgstr "啓用空間化（稍稍混合左右聲道以輕微降低耳機的立體聲分離）"
 
 #: qcsrc/menu/xonotic/dialog_settings_audio.qc:144
 msgid "Hit indication sound"
@@ -8282,7 +8286,7 @@ msgstr "飾點效果"
 
 #: qcsrc/menu/xonotic/dialog_settings_effects.qc:165
 msgid "Enable decals (bullet holes and blood)"
-msgstr "啟用飾點（彈孔和血滴）"
+msgstr "啓用飾點（彈孔和血滴）"
 
 #: qcsrc/menu/xonotic/dialog_settings_effects.qc:166
 msgid "Decals on models"
@@ -8391,7 +8395,7 @@ msgstr "閃光"
 msgid ""
 "Enable bloom effect, which brightens the neighboring pixels of very bright "
 "pixels. Has a big impact on performance."
-msgstr "啟用閃光效果，會加亮超亮像素的鄰近像素。對性能有極大影響。"
+msgstr "啓用閃光效果，會加亮超亮像素的鄰近像素。對性能有極大影響。"
 
 #: qcsrc/menu/xonotic/dialog_settings_effects.qc:224
 msgid "Extra postprocessing effects"
@@ -8451,7 +8455,7 @@ msgstr "按武器"
 msgid ""
 "Set a different crosshair for each weapon, good if you play without weapon "
 "models"
-msgstr "為各個武器設置不同的準星，在不啟用武器模型時會很有幫助"
+msgstr "為各個武器設置不同的準星，在不啓用武器模型時會很有幫助"
 
 #: qcsrc/menu/xonotic/dialog_settings_game_crosshair.qc:48
 #: qcsrc/menu/xonotic/dialog_settings_game_crosshair.qc:81
@@ -8469,7 +8473,7 @@ msgstr "使用環圈表示武器狀態"
 
 #: qcsrc/menu/xonotic/dialog_settings_game_crosshair.qc:93
 msgid "Enable center crosshair dot"
-msgstr "啟用準星中央圓點"
+msgstr "啓用準星中央圓點"
 
 #: qcsrc/menu/xonotic/dialog_settings_game_crosshair.qc:111
 msgid "Use normal crosshair color"
@@ -8517,7 +8521,7 @@ msgstr "漸變速度："
 
 #: qcsrc/menu/xonotic/dialog_settings_game_hud.qc:51
 msgid "Enable rows / columns highlighting"
-msgstr "啟用行/列高亮"
+msgstr "啓用行/列高亮"
 
 #: qcsrc/menu/xonotic/dialog_settings_game_hud.qc:53
 msgid "Show accuracy underneath scoreboard"
@@ -8815,7 +8819,7 @@ msgstr "使所有玩家顏色與我相同"
 msgid ""
 "Warning: if enabled in team games your team's color may be the same as the "
 "enemy team"
-msgstr "警吿：若在團隊遊戲中啟用，你的隊伍顏色會和敵人的一樣"
+msgstr "警告：若在團隊遊戲中啓用，你的隊伍顏色會和敵人的一樣"
 
 #: qcsrc/menu/xonotic/dialog_settings_game_model.qc:57
 msgid "Except in team games"
@@ -9096,7 +9100,7 @@ msgstr "使用系統鼠標定位"
 
 #: qcsrc/menu/xonotic/dialog_settings_input.qc:75
 msgid "Enable built in mouse acceleration"
-msgstr "啟用內置鼠標加速"
+msgstr "啓用內置鼠標加速"
 
 #: qcsrc/menu/xonotic/dialog_settings_input.qc:79
 #: qcsrc/menu/xonotic/dialog_settings_input.qc:83
@@ -9306,7 +9310,7 @@ msgstr "顯示當前的日期和時間，對截圖會很有幫助"
 
 #: qcsrc/menu/xonotic/dialog_settings_misc.qc:136
 msgid "Enable developer mode"
-msgstr "啟用開發者模式"
+msgstr "啓用開發者模式"
 
 #: qcsrc/menu/xonotic/dialog_settings_misc.qc:141
 msgid "Advanced settings..."
@@ -9395,7 +9399,7 @@ msgstr "切換語言"
 
 #: qcsrc/menu/xonotic/dialog_settings_user_languagewarning.qh:6
 msgid "Warning"
-msgstr "警吿"
+msgstr "警告"
 
 #: qcsrc/menu/xonotic/dialog_settings_video.qc:33
 msgid "Resolution:"
@@ -9483,7 +9487,7 @@ msgstr "抗鋸齒："
 msgid ""
 "Enable antialiasing, which smooths the edges of 3D geometry. Note that it "
 "might decrease performance by quite a lot"
-msgstr "啟用抗鋸齒，可以平滑 3D 幾何的邊緣。注意這可能極大降低性能"
+msgstr "啓用抗鋸齒，可以平滑 3D 幾何的邊緣。注意這可能極大降低性能"
 
 #: qcsrc/menu/xonotic/dialog_settings_video.qc:76
 msgid "AA^Disabled"
@@ -10354,11 +10358,11 @@ msgstr "獵殺"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:172
 msgid "Number of survivals"
-msgstr "生存數"
+msgstr "生還數"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:172
 msgid "SCO^survivals"
-msgstr "生存"
+msgstr "生還"
 
 #: qcsrc/common/notifications/all.inc:446
 #: qcsrc/common/notifications/all.inc:783
@@ -10437,3 +10441,19 @@ msgstr "^K1由於你被此服務器封禁，你不可以發起投票"
 #: qcsrc/common/notifications/all.inc:810
 msgid "^K1You aren't allowed to vote because you are banned in this server"
 msgstr "^K1由於你被此服務器封禁，你不可以參與投票"
+
+#: qcsrc/common/gamemodes/gamemode/survival/survival.qh:12
+msgid "Identify and eliminate all the hunters before all your allies are gone"
+msgstr "在隊友接連受害前認出並消滅所有狩獵者"
+
+#: qcsrc/common/gamemodes/gamemode/survival/survival.qh:12
+msgid "Survival"
+msgstr "生還"
+
+#: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
+msgid "Keep the ball in your team's possession to get points for kills"
+msgstr "爭取讓團隊持球，殺敵得分"
+
+#: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
+msgid "Team Keepaway"
+msgstr "團隊驅離"

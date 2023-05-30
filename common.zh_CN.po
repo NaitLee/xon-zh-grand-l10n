@@ -1,4 +1,8 @@
 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
 #: qcsrc/client/hud/hud_config.qc:80
 #, c-format
 msgid "^2Successfully exported to %s! (Note: It's saved in data/data/)"
@@ -10354,11 +10358,11 @@ msgstr "猎杀"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:172
 msgid "Number of survivals"
-msgstr "生存数"
+msgstr "生还数"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:172
 msgid "SCO^survivals"
-msgstr "生存"
+msgstr "生还"
 
 #: qcsrc/common/notifications/all.inc:446
 #: qcsrc/common/notifications/all.inc:783
@@ -10437,3 +10441,19 @@ msgstr "^K1由于你被此服务器封禁，你不可以发起投票"
 #: qcsrc/common/notifications/all.inc:810
 msgid "^K1You aren't allowed to vote because you are banned in this server"
 msgstr "^K1由于你被此服务器封禁，你不可以参与投票"
+
+#: qcsrc/common/gamemodes/gamemode/survival/survival.qh:12
+msgid "Identify and eliminate all the hunters before all your allies are gone"
+msgstr "在队友接连受害前认出并消灭所有狩猎者"
+
+#: qcsrc/common/gamemodes/gamemode/survival/survival.qh:12
+msgid "Survival"
+msgstr "生还"
+
+#: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
+msgid "Keep the ball in your team's possession to get points for kills"
+msgstr "争取让团队持球，杀敌得分"
+
+#: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
+msgid "Team Keepaway"
+msgstr "团队驱离"

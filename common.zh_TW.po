@@ -1,4 +1,8 @@
 
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
 #: qcsrc/client/hud/hud_config.qc:80
 #, c-format
 msgid "^2Successfully exported to %s! (Note: It's saved in data/data/)"
@@ -980,7 +984,7 @@ msgstr "怪物擊殺："
 
 #: qcsrc/client/hud/panel/scoreboard.qc:1927
 msgid "Secrets found:"
-msgstr "發現祕密："
+msgstr "發現秘密："
 
 #: qcsrc/client/hud/panel/scoreboard.qc:2137
 #, c-format
@@ -6770,7 +6774,7 @@ msgstr "武器欄"
 
 #: qcsrc/menu/xonotic/dialog_hudsetup_exit.qc:19
 msgid "HUD skins"
-msgstr "HUD 面板"
+msgstr "HUD 皮膚"
 
 #: qcsrc/menu/xonotic/dialog_hudsetup_exit.qc:22
 #: qcsrc/menu/xonotic/dialog_multiplayer_create.qc:179
@@ -6791,11 +6795,11 @@ msgstr "重新整理"
 #: qcsrc/menu/xonotic/dialog_hudsetup_exit.qc:33
 #: qcsrc/menu/xonotic/dialog_settings_user.qc:28
 msgid "Set skin"
-msgstr "設定面板"
+msgstr "設定皮膚"
 
 #: qcsrc/menu/xonotic/dialog_hudsetup_exit.qc:37
 msgid "Save current skin"
-msgstr "儲存當前面板"
+msgstr "儲存當前皮膚"
 
 #: qcsrc/menu/xonotic/dialog_hudsetup_exit.qc:46
 msgid "Panel background defaults:"
@@ -6921,7 +6925,7 @@ msgstr "顏色："
 #: qcsrc/menu/xonotic/dialog_monstertools.qc:33
 #: qcsrc/menu/xonotic/dialog_sandboxtools.qc:39
 msgid "Set skin:"
-msgstr "設定面板："
+msgstr "設定皮膚："
 
 #: qcsrc/menu/xonotic/dialog_monstertools.qh:6
 msgid "Monster Tools"
@@ -9359,7 +9363,7 @@ msgstr "這會在你的資料目錄中建立一個備份的配置檔案"
 
 #: qcsrc/menu/xonotic/dialog_settings_user.qc:23
 msgid "Menu Skins"
-msgstr "選單面板"
+msgstr "選單皮膚"
 
 #: qcsrc/menu/xonotic/dialog_settings_user.qc:62
 msgid "Text Language"
@@ -10354,11 +10358,11 @@ msgstr "獵殺"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:172
 msgid "Number of survivals"
-msgstr "生存數"
+msgstr "生還數"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:172
 msgid "SCO^survivals"
-msgstr "生存"
+msgstr "生還"
 
 #: qcsrc/common/notifications/all.inc:446
 #: qcsrc/common/notifications/all.inc:783
@@ -10437,3 +10441,19 @@ msgstr "^K1由於你被此伺服器封禁，你不可以發起投票"
 #: qcsrc/common/notifications/all.inc:810
 msgid "^K1You aren't allowed to vote because you are banned in this server"
 msgstr "^K1由於你被此伺服器封禁，你不可以參與投票"
+
+#: qcsrc/common/gamemodes/gamemode/survival/survival.qh:12
+msgid "Identify and eliminate all the hunters before all your allies are gone"
+msgstr "在隊友接連受害前認出並消滅所有狩獵者"
+
+#: qcsrc/common/gamemodes/gamemode/survival/survival.qh:12
+msgid "Survival"
+msgstr "生還"
+
+#: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
+msgid "Keep the ball in your team's possession to get points for kills"
+msgstr "爭取讓團隊持球，殺敵得分"
+
+#: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
+msgid "Team Keepaway"
+msgstr "團隊驅離"
