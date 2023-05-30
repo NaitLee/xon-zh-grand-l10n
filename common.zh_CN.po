@@ -1,6 +1,7 @@
 
 msgid ""
 msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 #: qcsrc/client/hud/hud_config.qc:80
@@ -10457,3 +10458,4 @@ msgstr "争取让团队持球，杀敌得分"
 #: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
 msgid "Team Keepaway"
 msgstr "团队驱离"
+"
