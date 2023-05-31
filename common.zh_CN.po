@@ -10458,4 +10458,4 @@ msgstr "争取让团队持球，杀敌得分"
 #: qcsrc/common/gamemodes/gamemode/tka/tka.qh:13
 msgid "Team Keepaway"
 msgstr "团队驱离"
-"
+
