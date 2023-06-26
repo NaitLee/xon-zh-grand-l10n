@@ -2847,7 +2847,7 @@ msgstr "^BG%s^K1 再也遭不住了%s%s"
 #: qcsrc/common/notifications/all.inc:323
 #, c-format
 msgid "^BG%s^K1 is now preserved for centuries to come%s%s"
-msgstr "^BG%s^K1 被埋在土里去度过下一世纪%s%s"
+msgstr "^BG%s^K1 被埋在土里见证历史%s%s"
 
 #: qcsrc/common/notifications/all.inc:324
 #, c-format
@@ -3194,7 +3194,7 @@ msgstr "^TC^TT队^BG发电机被摧毁"
 
 #: qcsrc/common/notifications/all.inc:406
 msgid "^TC^TT^BG generator spontaneously combusted due to overtime!"
-msgstr "^TC^TT队^BG发电机因超时而自然燃尽！"
+msgstr "^TC^TT队^BG发电机在超时后自然燃尽！"
 
 #: qcsrc/common/notifications/all.inc:408
 #, c-format
@@ -3332,20 +3332,20 @@ msgstr "^BG你不被应许更换团队"
 msgid ""
 "^F4NOTE: ^BGThe server is running ^F1Xonotic %s (beta)^BG, you have "
 "^F2Xonotic %s"
-msgstr "^F4注意：^BG此服务器在运行 ^F1Xonotic %s (beta)^BG，此客户端为 ^F2Xonotic %s"
+msgstr "^F4注意：^BG此服务器是 ^F1Xonotic %s (beta)^BG，你在游玩 ^F2Xonotic %s"
 
 #: qcsrc/common/notifications/all.inc:442
 #, c-format
 msgid ""
 "^F4NOTE: ^BGThe server is running ^F1Xonotic %s^BG, you have ^F2Xonotic %s"
-msgstr "^F4注意：^BG此服务器在运行 ^F1Xonotic %s^BG，你的客户端为 ^F2Xonotic %s"
+msgstr "^F4注意：^BG此服务器是 ^F1Xonotic %s^BG，你在游玩 ^F2Xonotic %s"
 
 #: qcsrc/common/notifications/all.inc:443
 #, c-format
 msgid ""
 "^F4NOTE: ^F1Xonotic %s^BG is out, and you still have ^F2Xonotic %s^BG - get "
 "the update from ^F3http://www.xonotic.org/^BG!"
-msgstr "^F4注意：^F1Xonotic %s^BG 已发布，而此客户端为 ^F2Xonotic %s^BG。在 ^F3http://www.xonotic.org/^BG 获取更新！"
+msgstr "^F4注意: ^F1Xonotic %s^BG 已发布，但你在游玩 ^F2Xonotic %s^BG——可到 ^F3http://www.xonotic.org^BG 下载更新！"
 
 #: qcsrc/common/notifications/all.inc:445
 #, c-format
@@ -3411,7 +3411,7 @@ msgstr "^BG%s^K1 被自己的灭世炸上了天%s%s"
 #: qcsrc/common/notifications/all.inc:457
 #, c-format
 msgid "^BG%s%s^K1 was blasted by ^BG%s^K1's Electro bolt%s%s"
-msgstr "^BG%s%s^K1 被 ^BG%s^K1 的电射枪光束爆破了%s%s"
+msgstr "^BG%s%s^K1 被 ^BG%s^K1 的电射枪光束爆破%s%s"
 
 #: qcsrc/common/notifications/all.inc:458
 #, c-format
@@ -3590,7 +3590,7 @@ msgstr "^BG%s^K1 被自己的绝灭火箭炮链锯炸飞了%s%s"
 #: qcsrc/common/notifications/all.inc:492
 #, c-format
 msgid "^BG%s%s^K1 was gunned down by ^BG%s^K1's Overkill Shotgun%s%s"
-msgstr "^BG%s%s^K1 被 ^BG%s^K1 用绝灭霰弹枪击倒%s%s"
+msgstr "^BG%s%s^K1 被 ^BG%s^K1 用绝灭霰弹枪击杀%s%s"
 
 #: qcsrc/common/notifications/all.inc:493
 #, c-format
@@ -3600,17 +3600,17 @@ msgstr "^BG%s%s^K1 被 ^BG%s^K1 用步枪狙击%s%s"
 #: qcsrc/common/notifications/all.inc:494
 #, c-format
 msgid "^BG%s%s^K1 died in ^BG%s^K1's Rifle bullet hail%s%s"
-msgstr "^BG%s%s^K1 死在了 ^BG%s^K1 的步枪弹下%s%s"
+msgstr "^BG%s%s^K1 死于 ^BG%s^K1 的步枪突击%s%s"
 
 #: qcsrc/common/notifications/all.inc:495
 #, c-format
 msgid "^BG%s%s^K1 failed to hide from ^BG%s^K1's Rifle bullet hail%s%s"
-msgstr "^BG%s%s^K1 没能逃过 ^BG%s^K1 的步枪弹%s%s"
+msgstr "^BG%s%s^K1 没能躲过 ^BG%s^K1 的步枪突击%s%s"
 
 #: qcsrc/common/notifications/all.inc:496
 #, c-format
 msgid "^BG%s%s^K1 failed to hide from ^BG%s^K1's Rifle%s%s"
-msgstr "^BG%s%s^K1 没能逃过 ^BG%s^K1 的步枪攻击%s%s"
+msgstr "^BG%s%s^K1 没能躲过 ^BG%s^K1 的步枪%s%s"
 
 #: qcsrc/common/notifications/all.inc:497
 #, c-format
@@ -3630,22 +3630,22 @@ msgstr "^BG%s^K1 试图把玩跟踪火箭%s%s"
 #: qcsrc/common/notifications/all.inc:500
 #, c-format
 msgid "^BG%s%s^K1 was gunned down by ^BG%s^K1's Shockwave%s%s"
-msgstr "^BG%s%s^K1 被 ^BG%s^K1 用脉冲枪击倒%s%s"
+msgstr "^BG%s%s^K1 被 ^BG%s^K1 用脉冲枪击杀%s%s"
 
 #: qcsrc/common/notifications/all.inc:501
 #, c-format
 msgid "^BG%s%s^K1 slapped ^BG%s^K1 around a bit with a large Shockwave%s%s"
-msgstr "^BG%s%s^K1 用脉冲枪把 ^BG%s^K1 搧得再起不能%s%s"
+msgstr "^BG%s%s^K1 用脉冲枪把 ^BG%s^K1 击倒%s%s"
 
 #: qcsrc/common/notifications/all.inc:502
 #, c-format
 msgid "^BG%s%s^K1 was gunned down by ^BG%s^K1's Shotgun%s%s"
-msgstr "^BG%s%s^K1 被 ^BG%s^K1 用霰弹枪击倒%s%s"
+msgstr "^BG%s%s^K1 被 ^BG%s^K1 用霰弹枪击杀%s%s"
 
 #: qcsrc/common/notifications/all.inc:503
 #, c-format
 msgid "^BG%s%s^K1 slapped ^BG%s^K1 around a bit with a large Shotgun%s%s"
-msgstr "^BG%s%s^K1 用大霰弹枪把 ^BG%s^K1 搧得再起不能%s%s"
+msgstr "^BG%s%s^K1 用大霰弹枪把 ^BG%s^K1 击倒%s%s"
 
 #: qcsrc/common/notifications/all.inc:504
 #, c-format
@@ -6024,7 +6024,7 @@ msgid ""
 "Welcome to Xonotic, please select your language preference and enter your "
 "player name to get started.  You can change these options later through the "
 "menu system."
-msgstr "欢迎来到 Xonotic，请选择你的语言、输入玩家名称以开始。这些选项随后可以在有关选项修改。"
+msgstr "欢迎来到 Xonotic。 请选择你的语言、输入玩家名称以开始游戏。 这些选项可以随后在菜单更改。"
 
 #: qcsrc/menu/xonotic/dialog_firstrun.qc:50
 #: qcsrc/menu/xonotic/dialog_settings_input_userbind.qc:28
@@ -10459,3 +10459,13 @@ msgstr "争取让团队持球，杀敌得分"
 msgid "Team Keepaway"
 msgstr "团队驱离"
 
+#: qcsrc/common/notifications/all.inc:458
+#, c-format
+msgid ""
+"^F4NOTE: ^F1Xonotic %s^BG is out, and you still have ^F2Xonotic %s^BG - get "
+"the update from ^F3https://xonotic.org^BG!"
+msgstr "^F4注意: ^F1Xonotic %s^BG 已发布，但你在游玩 ^F2Xonotic %s^BG——可到 ^F3https://xonotic.org^BG 下载更新！"
+
+#: qcsrc/common/notifications/all.inc:716
+msgid "^K1You aren't allowed to play because you are banned in this server"
+msgstr "^K1由于你被此服务器封禁，你不可以加入游戏"
