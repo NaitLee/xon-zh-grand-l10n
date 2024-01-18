@@ -930,7 +930,7 @@ msgid ""
 "of game types, then a slash, to make the field show up only in these\n"
 "or in all but these game types. You can also specify 'all' as a\n"
 "field to show all fields available for the current game mode."
-msgstr "在域前你可以放一个 +（或 -）号，后跟一个以逗号分割的游戏类型列表，\n之后一个斜杠，以使此域仅显示在这些（或除了这些）游戏类型中。你也可以使用‘all’以显示当前游戏模式的所有域。"
+msgstr "在域前你可以放一个 +（或 -）号，后跟一个以逗号分割的游戏模式列表，\n之后一个斜杠，以使此域仅显示在这些（或除了这些）游戏模式中。你也可以使用‘all’以显示当前游戏模式的所有域。"
 
 #: qcsrc/client/hud/panel/scoreboard.qc:704
 msgid ""
@@ -1267,7 +1267,7 @@ msgstr "^BG按 ^F2%s^BG 以进入游戏"
 #: qcsrc/client/main.qc:1439
 #: qcsrc/menu/xonotic/dialog_multiplayer_join_serverinfotab.qc:38
 msgid "Gametype:"
-msgstr "游戏类型："
+msgstr "游戏模式："
 
 #: qcsrc/client/main.qc:1453
 msgid "This match supports"
@@ -1325,7 +1325,7 @@ msgstr "不在意"
 
 #: qcsrc/client/mapvoting.qc:395
 msgid "Decide the gametype"
-msgstr "选择游戏种类"
+msgstr "选择游戏模式"
 
 #: qcsrc/client/mapvoting.qc:395
 msgid "Vote for a map"
@@ -2106,11 +2106,11 @@ msgstr "怪物榴弹"
 
 #: qcsrc/common/mutators/mutator/nades/nades.inc:78
 msgid "Entrap grenade"
-msgstr "减速榴弹"
+msgstr "滞速榴弹"
 
 #: qcsrc/common/mutators/mutator/nades/nades.inc:88
 msgid "Veil grenade"
-msgstr "隐身榴弹"
+msgstr "藏匿榴弹"
 
 #: qcsrc/common/mutators/mutator/nades/nades.qc:102
 #: qcsrc/menu/xonotic/keybinder.qc:57
@@ -3044,7 +3044,7 @@ msgstr "^BG%s^BG 失去了%s^BG增益！"
 #: qcsrc/common/notifications/all.inc:684
 #, c-format
 msgid "^BGYou dropped the %s^BG buff!"
-msgstr "^BG你丢掉了%s^BG增益！"
+msgstr "^BG你失去了%s^BG增益！"
 
 #: qcsrc/common/notifications/all.inc:370
 #: qcsrc/common/notifications/all.inc:685
@@ -3446,7 +3446,7 @@ msgstr "^BG%s%s^K1 被 ^BG%s^K1 放的小火球烧着了%s%s"
 #: qcsrc/common/notifications/all.inc:464
 #, c-format
 msgid "^BG%s^K1 should have used a smaller gun%s%s"
-msgstr "^BG%s^K1 驾驭不了这么大的抢%s%s"
+msgstr "^BG%s^K1 没能驾驭这么大的枪%s%s"
 
 #: qcsrc/common/notifications/all.inc:465
 #, c-format
@@ -4430,7 +4430,7 @@ msgstr "^F2现在是^F4决胜时刻^F2！\n\n发电机开始衰减。\n团队占
 msgid ""
 "^F2Now playing ^F4OVERTIME^F2!\n"
 "^BGAdded ^F4%s^BG to the game!"
-msgstr "^F2现在是^F4决胜时刻^F2！\n^BG为游戏添加了 ^F4%s^BG！"
+msgstr "^F2现在是^F4决胜时刻^F2！\n^BG为游戏延长了 ^F4%s^BG！"
 
 #: qcsrc/common/notifications/all.inc:741
 msgid "^K1In^BG-portal created"
@@ -10469,3 +10469,11 @@ msgstr "^F4注意: ^F1Xonotic %s^BG 已发布，但你在游玩 ^F2Xonotic %s^BG
 #: qcsrc/common/notifications/all.inc:716
 msgid "^K1You aren't allowed to play because you are banned in this server"
 msgstr "^K1由于你被此服务器封禁，你不可以加入游戏"
+
+#: qcsrc/common/mutators/mutator/nades/nades.inc:99
+msgid "Ammo grenade"
+msgstr "弹药榴弹"
+
+#: qcsrc/common/mutators/mutator/nades/nades.inc:109
+msgid "Darkness grenade"
+msgstr "暗影榴弹"
