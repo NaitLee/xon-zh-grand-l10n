@@ -10061,7 +10061,7 @@ msgstr "InstaGib（瞬杀）"
 
 #: qcsrc/menu/xonotic/serverlist.qh:160
 msgid "SLCAT^Defrag Mode"
-msgstr "Defrag（无杀戮模式）"
+msgstr "Defrag（休闲）"
 
 #: qcsrc/menu/xonotic/skinlist.qc:70
 msgid "<TITLE>"
